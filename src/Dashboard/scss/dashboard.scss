@@ -1,0 +1,30 @@
+.fp-dashboard {
+  ui {
+    list-style-type: none;
+  }
+  .outterContainer {
+    min-height: 300px;
+    border: 2px solid black;
+  }
+  .sub-header {
+    font-size: 25px;
+    font-weight: 600;
+    color: #124676;
+  }
+  h2 {
+    font-size: 48px !important;
+  }
+  .heroImg {
+    background-image: url("../img/dashboard.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+  }
+  .title {
+    position: relative;
+    top: 205px;
+    font-size: 48px !important;
+    color: #ffffff;
+  }
+}

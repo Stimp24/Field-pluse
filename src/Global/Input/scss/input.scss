@@ -1,0 +1,48 @@
+.ta_err-text {
+      background-color: transparent;
+      background-size: 16px;
+      border: none;
+      color: #cb2016;
+      display: block;
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 24px;
+      padding: 3px 10px 10px 23px;
+      text-indent: -23px;
+      width: 100%;
+    }
+    .labelText {
+      font-weight: 600;
+      font-size: 16px;
+      color: #2b2828;
+    }
+    .labelRequired {
+      font-size: 14px;
+    }
+    .ta-form--err {
+      outline: none !important;
+      border: 2px solid #cb2016 !important;
+      border-right: 2px solid #cb2016 !important;
+      border-bottom: 2px solid #cb2016 !important;
+      border-left: 2px solid #cb2016 !important;
+      padding: 0 18px !important;
+      box-shadow: none !important;
+    }
+    .ta-form--err:focus {
+      outline: none !important;
+      border: 2px solid #cb2016 !important;
+      border-right: 2px solid #cb2016 !important;
+      border-bottom: 2px solid #cb2016 !important;
+      border-left: 2px solid #cb2016 !important;
+      padding: 0 18px !important;
+      box-shadow: none !important;
+    }
+    .ta-form--err:hover {
+      outline: none !important;
+      border: 2px solid #cb2016 !important;
+      border-right: 2px solid #cb2016 !important;
+      border-bottom: 2px solid #cb2016 !important;
+      border-left: 2px solid #cb2016 !important;
+      padding: 0 18px !important;
+      box-shadow: none !important;
+    }
